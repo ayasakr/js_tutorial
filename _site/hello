@@ -1,0 +1,6 @@
+#!/usr/bin/node
+
+let firstName = "Aya";
+let lastName = "Sakr";
+let name = `${firstName} ${lastName}`;
+console.log(name);
